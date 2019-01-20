@@ -1,5 +1,6 @@
-# Done List
-小车运动朝向问题
+# CardinalSpline
 
-# To Do List
-清屏需要两次
+### 实现样条曲线控制小车运动
+
+### To Do List
+  - 清屏需要两次
